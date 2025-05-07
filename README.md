@@ -34,49 +34,26 @@ Here's a recap of all the tasks you've accomplished in your repository:
 2.You created and merged a Markdown file.
 
 3.You learned an essential GitHub skill. 🎉
-### Example
+### What's next
 
-```md
-# This is an `<h1>` header, which is the largest
+You can enable GitHub Pages and see your Markdown file as a website!
 
-## This is an `<h2>` header
+Under your repository name at the upper right, click ⚙️ Settings.
 
-###### This is an `<h6>` header, which is the smallest
-```
+Then on the lower left, click Pages in the Code and automation section.
 
-#### How it looks
+In the GitHub Pages section, ensure "Deploy from a branch" is selected from the Source drop-down menu, and then select main from the Branch drop-down menu as your GitHub Pages publishing source.
 
-# This is an `<h1>` header, which is the largest
+Click the Save button.
 
-## This is an `<h2>` header
+Wait about 30 seconds then refresh the page. When you see "Your site is published at ..." you can click on the link to see your published site.
 
-###### This is an `<h6>` header, which is the smallest
+Learn more about Markdown.
 
-### :keyboard: Activity: Edit your file with headers
+We'd love to hear what you thought of this course in our discussion board
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Open the **pull requests** tab.
-1. Click **New pull request**, for the branches to compare, select `base: main` and `compare: start-markdown`.
-1. Click **Create pull request**.
-1. In this pull request, go to the **Files changed** tab. We made an empty file `index.md` for you.
-1. Select **Edit file** from the three dotted **...** menu in the upper right corner of the file view on `index.md`.
-1. On the **Edit file** tab, add a `#`, followed by a **space**, before any content you like to make it an H1 Header. You can add more headers, using one to six `#` characters followed by a **space**.
-1. Above your new content, click **Preview**.
-1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
-1. Click **Commit changes**.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+Take another GitHub Skills course.
 
-<footer>
+Read the GitHub Getting Started docs.
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+To find projects to contribute to, check out GitHub Explore.
